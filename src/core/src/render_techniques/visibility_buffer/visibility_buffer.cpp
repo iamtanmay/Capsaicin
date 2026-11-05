@@ -20,6 +20,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 ********************************************************************/
 
+#include "gfx_backend_compat.h"
+
 #include "visibility_buffer.h"
 
 #include "../../ray_tracing/path_tracing_shared.h"

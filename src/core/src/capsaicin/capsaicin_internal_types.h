@@ -21,9 +21,13 @@ THE SOFTWARE.
 ********************************************************************/
 #pragma once
 
+#include "gfx_backend_compat.h"
+
 #include "gpu_shared.h"
 
+#if defined(GFX_DIRECTX)
 #include <dxgiformat.h>
+#endif
 #include <map>
 #include <string>
 #include <string_view>

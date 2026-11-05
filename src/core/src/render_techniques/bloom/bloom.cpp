@@ -20,6 +20,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 ********************************************************************/
 
+#include "gfx_backend_compat.h"
+
 #include "bloom.h"
 
 #include "capsaicin_internal.h"

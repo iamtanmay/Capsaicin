@@ -21,6 +21,8 @@ THE SOFTWARE.
 ********************************************************************/
 #pragma once
 
+#include "gfx_backend_compat.h"
+
 #include "capsaicin.h"
 #include "gpu_shared.h"
 #include "graph.h"

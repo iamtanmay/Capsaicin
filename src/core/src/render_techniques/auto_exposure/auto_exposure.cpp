@@ -20,6 +20,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 ********************************************************************/
 
+#include "gfx_backend_compat.h"
+
 #include "auto_exposure.h"
 
 #include "../../components/blue_noise_sampler/blue_noise_sampler.h"
